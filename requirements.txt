@@ -4,3 +4,5 @@ dj-database-url
 python-dotenv
 psycopg2-binary
 django-cors-headers
+numpy
+pandas
